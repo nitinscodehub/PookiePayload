@@ -1,0 +1,2 @@
+python3 -u /home/kali/Desktop/whatsapp_sorry.py
+
